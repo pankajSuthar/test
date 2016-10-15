@@ -1,1 +1,1 @@
-<?echo 'test';exit;
+<?echo 'yes its working';exit;
